@@ -1,4 +1,4 @@
-# Ai Extension
+# Chrome Ai Extension
 
 Build responsive chrome Ai extension using WXT, React, Typescript and TailwindCSS. It's help to generate Ai responses quickly for you
 
